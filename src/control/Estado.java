@@ -14,7 +14,7 @@ public class Estado {
 	Factorias factoria;
 	Poblacion poblacion;
 	Sede sede;
-
+//hola
 	private double demanda;
 	private int numeroSeres;
 	private double dineroActual;
